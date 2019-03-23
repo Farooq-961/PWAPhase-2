@@ -1,0 +1,41 @@
+{
+  "basics":{
+    "img":"image/image2.png",
+    "name":"harish raju",
+    "email":"17699a0515"
+  },
+"carier":{
+  "info":"seek information"
+},
+"education":[
+  {
+    "sno":"1",
+    "degree":"ssc",
+    "institute":"abc",
+    "year":"2015"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "institute":"def",
+    "year":"2017"
+  },
+  {
+    "sno":"3",
+    "degree":"b.tech",
+    "institute":"mits",
+    "year":"2021"
+  }
+],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"python"
+  }
+]
+}
